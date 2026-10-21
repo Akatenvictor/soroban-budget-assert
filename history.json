@@ -1,0 +1,20 @@
+[
+  {
+    "commit": "501879a7cff845958dc18c186c8f5092a43b3708",
+    "timestamp": "2026-10-21T19:45:56Z",
+    "data": [
+      {
+        "package": "amm-pool-contract",
+        "function": "do_expensive_work",
+        "metric": "CPU Instructions",
+        "value": 1000000
+      },
+      {
+        "package": "amm-pool-contract",
+        "function": "do_expensive_work",
+        "metric": "Read Bytes",
+        "value": 4096
+      }
+    ]
+  }
+]
